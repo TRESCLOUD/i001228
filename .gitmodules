@@ -80,5 +80,9 @@
 
 [submodule "TRESCLOUD/purchase-and-imports"]
 	path = TRESCLOUD/purchase-and-imports
+	url = https://github.com/TRESCLOUD/purchase-and-imports.git
+	branch = 15.0
+[submodule "/home/gasper/clientesv15/i001228/TRESCLOUD/purchase-and-imports"]
+	path = /home/gasper/clientesv15/i001228/TRESCLOUD/purchase-and-imports
 	url = git@github.com:TRESCLOUD/purchase-and-imports.git
 	branch = 15.0
