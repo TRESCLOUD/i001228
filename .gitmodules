@@ -77,3 +77,8 @@
 	path = TRESCLOUD/web
 	url = git@github.com:TRESCLOUD/web.git
 	branch = 15.0
+
+[submodule "TRESCLOUD/purchase-and-imports"]
+	path = TRESCLOUD/purchase-and-imports
+	url = git@github.com:TRESCLOUD/purchase-and-imports.git
+	branch = 15.0
